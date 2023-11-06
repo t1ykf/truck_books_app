@@ -32,8 +32,8 @@ final String table = "logs"; // 记账数据存在的表名
 flutter run
 ```
 
-![alt 预览图](./images/1.jpg)
-![alt 预览图](./images/2.jpg)
+<img src="./images//1.jpg" style="width: 250px">
+<img src="./images//2.jpg" style="width: 250px">
 
 ## 聚合查询
 
